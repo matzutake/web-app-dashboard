@@ -3,5 +3,5 @@ const loading = ref(false);
 </script>
 
 <template>
-  <Sidebar />
+  <div>Hello test</div>
 </template>
