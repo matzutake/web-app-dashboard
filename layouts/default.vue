@@ -1,8 +1,6 @@
 <template>
-	<div class="flex item-start">
-		<div>
-			<SidebarMenu />
-		</div>
+	<div class="grid items-start lg:flex">
+		<Sidebar />
 		<div>
 			<slot />
 		</div>
