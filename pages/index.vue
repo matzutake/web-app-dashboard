@@ -1,7 +1,7 @@
 <script setup>
-const loading = ref(false);
+const loading = ref(false)
 </script>
 
 <template>
-  <Sidebar />
+	<Sidebar />
 </template>
