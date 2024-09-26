@@ -18,5 +18,10 @@ export default defineNuxtConfig({
     componentDir: "./components/ui",
   },
 
+  app: {
+    baseURL: "/web-app-dashboard/",
+    buildAssetsDir: "assets",
+  },
+
   compatibilityDate: "2024-09-23",
 });
